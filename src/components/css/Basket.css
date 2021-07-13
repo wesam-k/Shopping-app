@@ -1,0 +1,138 @@
+.wrapper {
+  max-width: 910px;
+  width: 100%;
+  border: 1px solid #eee;
+  overflow: hidden;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.cart {
+  position: relative;
+  border: 1px solid #ccc;
+}
+.amount span {
+  color: crimson;
+  padding: 0 20px;
+}
+.amount .count {
+  width: 40px;
+  height: 30px;
+  border: 1px solid #555;
+  outline: none;
+  background: transparent;
+  cursor: pointer;
+}
+.delete {
+  position: absolute;
+  margin-top: 10px;
+  right: 10px;
+  color: crimson;
+  cursor: pointer;
+  font-weight: 900;
+}
+
+.details {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 10px auto 20px;
+}
+.details img {
+  max-width: 290px;
+  min-width: 290px;
+  height: 300px;
+  object-fit: cover;
+  margin: 25px;
+}
+.details .box {
+  max-width: 500px;
+  min-width: 490px;
+  margin: 25px;
+}
+.box .row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.box .row h2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.box .row span {
+  color: crimson;
+}
+.box p {
+  line-height: 1.5;
+  margin: 15px 0;
+}
+.box .cart {
+  background: #333;
+  color: white;
+  text-decoration: none;
+  padding: 10px 25px;
+  display: inline-block;
+}
+
+.total {
+  align-self: flex-end;
+  background: #333;
+  color: white;
+  height: 50px;
+  padding: 0px 30px;
+  font-size: 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.total strong {
+  margin-left: 20px;
+}
+
+@media (min-width: 648px) and (max-width: 900px) {
+  .wrapper {
+    max-width: 650px;
+  }
+  .details img {
+    max-width: 490px;
+    min-width: 490px;
+  }
+}
+@media (min-width: 375px) and (max-width: 647px) {
+  .wrapper {
+      max-width:350px;
+  }
+  .details img {
+    max-width: 300px;
+    margin: 10px ;
+
+  }
+  .details {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 10px auto 20px;
+  }
+  
+.cart {
+   max-width: 320px;
+  }
+  .details .box {
+    min-width: 280px;
+    margin: 25px;
+  }
+  .delete {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+  }
+  .total{
+      font-size: 14px;
+      height: 30px;
+      align-self: stretch;
+  }
+  
+}

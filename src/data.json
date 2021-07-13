@@ -1,0 +1,58 @@
+
+  {
+    "products": [
+      {
+        "id": 1,
+        "title": "Technology",
+        "src": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1007&q=80",
+        "description": "UI/UX project",
+        "content": "Welcome to my Demo E-commerce project",
+        "price": 2300
+      },
+      {
+        "id": 2,
+        "title": "Business & Work Apple mac",
+        "src": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "description": "UI/UX project",
+        "content": "Welcome to my Demo E-commerce project",
+        "price": 3700
+
+      },
+      {
+        "id": 3,
+        "title": "Technology, Arts & Culture",
+        "src": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjAzfHx0ZWNobm9sb2d5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "UI/UX project",
+        "content": "Welcome to my Demo E-commerce project",
+        "price": 500
+      },
+      {
+        "id": 4,
+        "title": "Business & Work",
+        "src": "https://images.unsplash.com/photo-1504270997636-07ddfbd48945?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+        "description": "UI/UX project",
+        "content": "Welcome to my Demo E-commerce project",
+        "price": 500
+      },
+      {
+        "id": 5,
+        "title": "Apple setup",
+        "src": "https://images.unsplash.com/photo-1510674485131-dc88d96369b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=601&q=80",
+        "description": "UI/UX project",
+        "content": "Welcome to my Demo E-commerce project",
+        "price": 400
+      },
+      {
+        "id": 6,
+        "title": "IPhone 7",
+        "src": "https://images.unsplash.com/photo-1495549115977-ca0a18c9f6a4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHRlY2hub2xvZ3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "description": "UI/UX project",
+        "content": "Welcome to my Demo E-commerce project",
+        "price": 900
+
+      }
+    ]
+  
+   
+  }
+
