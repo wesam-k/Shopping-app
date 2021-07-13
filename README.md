@@ -3,11 +3,7 @@
  
 ⚡ [Demo](https://ecommerceshoppingapp.netlify.app/)
 
-<br/>
 
-<img align="left" alt="applehome" hover="applehomee" width="500px" height="500px" src="https://user-images.githubusercontent.com/53225954/125510200-2b5cd3ce-3d69-4502-908a-ad5e927048cf.jpg" />
-<img align="left" alt="appleproductd" hover="appleproductd" width="500px" height="500px" src="https://user-images.githubusercontent.com/53225954/125510208-35ae6660-10b1-4ff4-a862-528919d51e9c.jpg" />
-<img align="left" alt="applebasket" hover="applebasket" width="500px" height="500px" src="https://user-images.githubusercontent.com/53225954/125510220-a9417600-7218-4e12-a1c7-6be104f71177.jpg" />
 
 <br/>
 <br/>
@@ -31,4 +27,8 @@ npm start
   
 <br/>
 <br/>
+<br/>
 
+<img align="left" alt="applehome" hover="applehomee" width="700px" height="500px" src="https://user-images.githubusercontent.com/53225954/125510200-2b5cd3ce-3d69-4502-908a-ad5e927048cf.jpg" />
+<img align="left" alt="appleproductd" hover="appleproductd" width="700px" height="500px" src="https://user-images.githubusercontent.com/53225954/125510208-35ae6660-10b1-4ff4-a862-528919d51e9c.jpg" />
+<img align="left" alt="applebasket" hover="applebasket" width="700px" height="500px" src="https://user-images.githubusercontent.com/53225954/125510220-a9417600-7218-4e12-a1c7-6be104f71177.jpg" />
