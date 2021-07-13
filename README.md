@@ -4,9 +4,9 @@
 ⚡ [Demo](https://ecommerceshoppingapp.netlify.app/)
 
 <br/>
-![applehome](https://user-images.githubusercontent.com/53225954/125509171-795baeee-9290-464e-8def-1e5fd60625b6.jpg)
-![appleproductd](https://user-images.githubusercontent.com/53225954/125509201-eb82cdb6-a5cc-4b18-9af6-eb387aba98ad.jpg)
-![applebasket](https://user-images.githubusercontent.com/53225954/125509217-398f7887-d37c-405f-9bd3-96311c0ce639.jpg)
+![applehome](https://user-images.githubusercontent.com/53225954/125509171-795baeee-9290-464e-8def-1e5fd60625b6.jpg).
+![appleproductd](https://user-images.githubusercontent.com/53225954/125509201-eb82cdb6-a5cc-4b18-9af6-eb387aba98ad.jpg).
+![applebasket](https://user-images.githubusercontent.com/53225954/125509217-398f7887-d37c-405f-9bd3-96311c0ce639.jpg).
 
 
 
@@ -25,7 +25,6 @@
 ### Usage
 
 ```
- e
 npm start
 ```
   
