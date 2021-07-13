@@ -5,8 +5,7 @@
 
 
 
-<br/>
-<br/>
+
 <br/>
 ## 🎓 Tools 
  
@@ -17,7 +16,6 @@
    
 
 <br/>
-<br/>
 
 ### Usage
 
@@ -25,8 +23,7 @@
 npm start
 ```
   
-<br/>
-<br/>
+
 <br/>
 
 <img align="left" alt="applehome" hover="applehomee" width="800px" height="400px" src="https://user-images.githubusercontent.com/53225954/125510200-2b5cd3ce-3d69-4502-908a-ad5e927048cf.jpg" />
