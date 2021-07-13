@@ -1,14 +1,13 @@
 # Shoppimg-app
- This is a sample ecommerce app that represented the products to add them on basket. buidt with Reactjs, JavaScript and css 
+ This is a sample e-commerce app that represented the products to add them to the basket. buidt with Reactjs, JavaScript and css 
  
 ⚡ [Demo](https://ecommerceshoppingapp.netlify.app/)
 
 <br/>
-![applehome](https://user-images.githubusercontent.com/53225954/125509171-795baeee-9290-464e-8def-1e5fd60625b6.jpg).
-![appleproductd](https://user-images.githubusercontent.com/53225954/125509201-eb82cdb6-a5cc-4b18-9af6-eb387aba98ad.jpg).
-![applebasket](https://user-images.githubusercontent.com/53225954/125509217-398f7887-d37c-405f-9bd3-96311c0ce639.jpg).
 
-
+<img align="left" alt="applehome" hover="applehomee" width="300px" height="300px" src="https://user-images.githubusercontent.com/53225954/125510200-2b5cd3ce-3d69-4502-908a-ad5e927048cf.jpg" />
+<img align="left" alt="appleproductd" hover="appleproductd" width="300px" height="300px" src="https://user-images.githubusercontent.com/53225954/125510208-35ae6660-10b1-4ff4-a862-528919d51e9c.jpg" />
+<img align="left" alt="applebasket" hover="applebasket" width="300px" height="300px" src="https://user-images.githubusercontent.com/53225954/125510220-a9417600-7218-4e12-a1c7-6be104f71177.jpg" />
 
 
 ## 🎓 Tools 
