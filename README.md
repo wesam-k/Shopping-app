@@ -1,5 +1,5 @@
 # Shoppimg-app
- This is a sample e-commerce app that represented the products to add them to the basket. buidt with Reactjs, JavaScript and css 
+ This is a sample e-commerce app that represented the products to add them to the basket. built with Reactjs, JavaScript and css 
  
 ⚡ [Demo](https://ecommerceshoppingapp.netlify.app/)
 
